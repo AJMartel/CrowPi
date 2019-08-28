@@ -1,6 +1,6 @@
 # CrowPi
 
-Official Elecrow CrowPi Repository
+https://www.elecrow.com/download/crowpi/ [Official Elecrow CrowPi Repository]
 
 # What's new?
 
